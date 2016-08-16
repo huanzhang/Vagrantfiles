@@ -1,1 +1,10 @@
 # Vagrantfiles
+ - centos6
+ - centos7
+ - mariadb
+ - mongo
+ - mysql
+ - rabbitmq
+ - redis
+ - sftp
+ - win7
